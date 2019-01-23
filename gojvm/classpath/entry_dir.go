@@ -1,8 +1,8 @@
 package classpath
 
 import (
-	"path/filepath"
 	"io/ioutil"
+	"path/filepath"
 )
 
 type DirEntry struct {
